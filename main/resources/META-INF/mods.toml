@@ -1,0 +1,27 @@
+modLoader="javafml"
+
+loaderVersion="[35,)"
+
+license="All rights reserved"
+
+[[mods]]
+
+modId="nosleep"
+
+version="2.0"
+
+displayName="No Sleep"
+
+#updateJSONURL="http://myurl.me/"
+
+#displayURL="http://example.com/"
+
+#logoFile="examplemod.png"
+
+#credits=""
+
+authors="borsat0"
+
+description='''
+You cannot sleep, but can still set spawn point on beds.
+'''
